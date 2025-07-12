@@ -1,4 +1,4 @@
-Android Task Manager App (Clean Architecture + MVVM + Kotlin)
+Android Task Dashboard App (Clean Architecture + MVVM + Kotlin)
 
 A beautifully designed task dashboard application built with Clean Architecture, MVVM, Kotlin. The app allows users to manage and track tasks across various projects with intuitive progress tracking and clean UI.
 
